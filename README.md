@@ -126,7 +126,7 @@ bash
 # Dê permissão de execução
 chmod +x snake_game
 
-👨‍💻 Desenvolvimento
+```👨‍💻 Desenvolvimento
 Item	Detalhes
 Disciplina	Algoritmos e Estruturas de Dados I (AED1)
 Instituição	Universidade Federal de São Carlos (UFSCar)
@@ -140,7 +140,7 @@ Desenvolvedores:
     Gabriel Ribeiro Almeida do Carmo - 845242:
         Responsável pela ideia e lógica do jogo e ajuda na implementação
 
-Para futuras fatures do projeto estamos pensando em deixá-lo mais agradável visualmente e talvez implementar alguma lógica/modo de jogo diferente.
+Para futuras fatures do projeto estamos pensando em deixá-lo mais agradável visualmente e talvez implementar alguma lógica/modo de jogo diferente.```
 
 🎯 Bom jogo e boa sorte batendo seu recorde! 🐍
 
