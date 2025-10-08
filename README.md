@@ -1,7 +1,3 @@
-Perfeito! Vou organizar seu arquivo em um **README.md bonito, limpo e bem estruturado**, com seções claras, blocos de código e tabelas, pronto para GitHub. Aqui está a versão formatada:
-
----
-
 ````markdown
 # 🐍 Snake Game - UFSCar AED1
 
