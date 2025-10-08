@@ -36,8 +36,8 @@ Desenvolvido como parte da Fase 1 do projeto da faculdade, para treinar lógica 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/renan-michelao/Snake-Game-fueda
-cd Snake-Game_fueda
+git clone [https://github.com/renan-michelao/Snake-Game-fueda.git]
+cd snake-game-fueda
 ````
 
 2. Instale as dependências (Fedora):
