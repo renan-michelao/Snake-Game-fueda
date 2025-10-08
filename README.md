@@ -178,7 +178,10 @@ chmod +x snake_game
 *"Programar é como fazer mágica, mas com mais Ctrl+Z e menos varinhas"* ✨
 
 ```
-![Snake Game](Images/snake-game-print.png)
+<div align="center">
+  <img src="Image/snake-game-print.png" alt="Snake Game" width="600">
+</div>
+
 
 ---
 
