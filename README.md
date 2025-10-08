@@ -179,7 +179,10 @@ chmod +x snake_game
 
 ```
 <div align="center">
-  <img src="Image/snake-game-print.png" alt="Snake Game" width="600">
+
+![Captura do Snake Game](Images/snake-game-print.png)
+*Snake Game em execução - Desenvolvido para AED1/UFSCar*
+
 </div>
 
 
