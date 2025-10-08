@@ -126,7 +126,7 @@ bash
 # Dê permissão de execução
 chmod +x snake_game
 
-```👨‍💻 Desenvolvimento
+👨‍💻 Desenvolvimento```
 Item	Detalhes
 Disciplina	Algoritmos e Estruturas de Dados I (AED1)
 Instituição	Universidade Federal de São Carlos (UFSCar)
